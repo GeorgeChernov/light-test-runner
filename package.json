@@ -1,0 +1,23 @@
+{
+  "name": "light-test-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lightTestRunner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeChernov/light-test-runner.git"
+  },
+  "keywords": [
+    "unit-test",
+    "test-runner"
+  ],
+  "author": "georgechernov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeChernov/light-test-runner/issues"
+  },
+  "homepage": "https://github.com/GeorgeChernov/light-test-runner#readme"
+}
